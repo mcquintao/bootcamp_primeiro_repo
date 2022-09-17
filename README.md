@@ -22,12 +22,12 @@
 
  - Empurrar commits para o github:
 
-    ```git push [alias] master```
+    ```git push [alias] [branch]```
 
  - Clonar respositório remoto:
 
     ```git clone [url]```
  - Puxar (fetch) alterações remotas:
 
-    ```git pull [alias] master```
+    ```git pull [alias] [branch]```
 
